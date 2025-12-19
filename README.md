@@ -1,6 +1,8 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
-Reference no : 25005176
-Name : Karthika.R
+**Reference no : 25005176**
+
+
+**Name : Karthika.R**
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
